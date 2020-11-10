@@ -4,55 +4,56 @@ CTF's writeups
 
 # Content Page
 
-- [Web Exploitation]()
-- [Cryptography]()
-- [Forensics]()
-- [General Skills]()
+- [Web Exploitation](https://github.com/m14isme/picoCTF-Writeups/tree/main/picoCTF-2019/Web%20Exploitation)
+- [Cryptography](https://github.com/m14isme/picoCTF-Writeups/tree/main/picoCTF-2019/Cryptography)
+- [Forensics](https://github.com/m14isme/picoCTF-Writeups/tree/main/picoCTF-2019/Forensics)
+- [General Skills](https://github.com/m14isme/picoCTF-Writeups/tree/main/picoCTF-2019/General%20Skills)
+- [Binary Exploitation](https://github.com/m14isme/picoCTF-Writeups/tree/main/picoCTF-2019/Binary%20Exploitation)
 - [Reverse Engineering]()
 
 # Web Exploitation
 
 | Challenges               | Points | Status |
 | ------------------------ | ------ | ------ |
-| [Insp3ct0r]()            | 50     | Solved |
-| [dont-use-client-side]() | 100    | Solved |
-| [logon]()                | 100    | Solved |
-| [where are the robots]() | 100    | Solved |
-| [Client-side-again]()    | 200    | Solved |
-| [Open-to-admins]()       | 200    | Solved |
-| [picobrowser]()          | 200    | Solved |
-| [Irish-Name-Repo 1]()    | 300    | Solved |
-| [Irish-Name-Repo 2]()    | 350    | Solved |
-| [Java Script Kiddie]()   | 400    | Solved |
-| [Empire1]()              | 400    | Solved |
+| [Insp3ct0r](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Insp3ct0r.md)            | 50     | Solved |
+| [dont-use-client-side](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/dont-use-client-side.md) | 100    | Solved |
+| [logon](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/logon.md)                | 100    | Solved |
+| [where are the robots](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/where-are-the-robots.md) | 100    | Solved |
+| [Client-side-again](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Client-side-again.md)    | 200    | Solved |
+| [Open-to-admins](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Open-to-admins.md)       | 200    | Solved |
+| [picobrowser](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/picobrowser.md)          | 200    | Solved |
+| [Irish-Name-Repo 1](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Irish-Name-Repo1.md)    | 300    | Solved |
+| [Irish-Name-Repo 2](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Irish-Name-Repo2.md)    | 350    | Solved |
+| [Java Script Kiddie](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Java-Script-Kiddie.md)   | 400    | Solved |
+| [Empire1](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Web%20Exploitation/Empire1.md)              | 400    | Solved |
 
 # Crytography
 
 | Challenges      | Points | Status |
 | --------------- | ------ | ------ |
-| [The Numbers]() | 50     | Solved |
-| [13]()          | 100    | Solved |
-| [Easy1]()       | 100    | Solved |
-| [caesar]()      | 100    | Solved |
+| [The Numbers](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Cryptography/The-numbers.md) | 50     | Solved |
+| [13](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Cryptography/13.md)          | 100    | Solved |
+| [Easy1](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Cryptography/Easy1.md)       | 100    | Solved |
+| [caesar](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Cryptography/caesar.md)      | 100    | Solved |
 
 # Foresics
 
 | Challenges              | Points | Status |
 | ----------------------- | ------ | ------ |
-| [unzip]()               | 50     | Solved |
-| [Glory of the Garden]() | 50     | Solved |
-| [So Meta]()             | 150    | Solved |
-| [What Lies Within]()    | 150    | Solved |
+| [unzip](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Forensics/unzip.md)               | 50     | Solved |
+| [Glory of the Garden](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Forensics/Glory-of-the-Garden.md) | 50     | Solved |
+| [So Meta](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Forensics/So-meta.md)             | 150    | Solved |
+| [What Lies Within](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Forensics/What-Lies-Within.md)    | 150    | Solved |
 
 # General Skills
 
 | Challenges       | Points | Status |
 | ---------------- | ------ | ------ |
-| [Lets Warm Up]() | 50     | Solved |
-| [2Warm]()        | 50     | Solved |
-| [Bases]()        | 100    | Solved |
-| [First Grep]()   | 100    | Solved |
-| [strings it]()   | 100    | Solved |
+| [Lets Warm Up](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/General%20Skills/Lets-warm-up.md) | 50     | Solved |
+| [2Warm](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/General%20Skills/2Warm.md)        | 50     | Solved |
+| [Bases](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/General%20Skills/Bases.md)        | 100    | Solved |
+| [First Grep](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/General%20Skills/First-Grep.md)   | 100    | Solved |
+| [strings it](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/General%20Skills/strings-it.md)   | 100    | Solved |
 
 # Reverse Engineering
 
@@ -84,9 +85,9 @@ CTF's writeups
 
 | Challenges          | Points | Status |
 | ------------------- | ------ | ------ |
-| [handy-shellcode]() | 50     | Solved |
-| [practice-run-1]()  | 50     | Solved |
-| [OverFlow 0]()      | 100    | Solved |
+| [handy-shellcode](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Binary%20Exploitation/handy-shellcode.md) | 50     | Solved |
+| [practice-run-1](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Binary%20Exploitation/practice-run-1.md)  | 50     | Solved |
+| [OverFlow 0](https://github.com/m14isme/picoCTF-Writeups/blob/main/picoCTF-2019/Binary%20Exploitation/OverFlow-0.md)      | 100    | Solved |
 
 ##### Hope you guys will enjoy and find useful things from my writeup
 
